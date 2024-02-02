@@ -116,4 +116,4 @@ async def on_message(message):
 
 
 # Inicia el bot con el token
-client.run('MTIwMjcyNjIxMTYzNDA3Nzc4Ng.Ga9HOC.-YF5aqQbJCy6DxbOe3ilOEg7vewSv0-J9xPzlE')  # Reemplaza con tu token
+client.run('Your-token')  # Reemplaza con tu token
